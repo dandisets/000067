@@ -20,7 +20,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/dandisets/000067/versions/draft/assets/87462c8e-4416-4f6d-82a1-43df91ae87c2/download/",
-"https://dandiarchive.s3.amazonaws.com/blobs/e7b/424/e7b4242f-fed9-4304-9323-17998fc881d9?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUBRWC5GAEKH3223E%2F20210426%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20210426T214508Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=9fd0664dce1dd7c0b387fd27556543cb96d59c5cfb2084c4a0a4542fe8ae89a4"
+"https://dandiarchive.s3.amazonaws.com/blobs/e7b/424/e7b4242f-fed9-4304-9323-17998fc881d9"
 ],
 "dateModified":
 "2021-04-20T18:44:01.246019-04:00",
@@ -96,7 +96,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/dandisets/000067/versions/draft/assets/fb189190-26b1-49ea-932b-83f420c79f55/download/",
-"https://dandiarchive.s3.amazonaws.com/blobs/fdd/894/fdd8948e-aa84-4acc-9ab5-ac2757f3ac23?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUBRWC5GAEKH3223E%2F20210426%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20210426T214508Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=509c42da1cdba692bfc977ecd4f453838b3cb630e470cd89d1486ab7d52e1095"
+"https://dandiarchive.s3.amazonaws.com/blobs/fdd/894/fdd8948e-aa84-4acc-9ab5-ac2757f3ac23"
 ],
 "dateModified":
 "2021-04-20T18:44:01.266616-04:00",
@@ -172,7 +172,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/dandisets/000067/versions/draft/assets/6494dbaf-a013-4b34-9a08-dee99fc64dd2/download/",
-"https://dandiarchive.s3.amazonaws.com/blobs/e3f/5c0/e3f5c01a-9ab9-45e7-b759-cbe2de262183?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUBRWC5GAEKH3223E%2F20210426%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20210426T214509Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=a1237967ec8ff574e6ca29057b78977d36cce9b38abcfb6dbd216db2e343f845"
+"https://dandiarchive.s3.amazonaws.com/blobs/e3f/5c0/e3f5c01a-9ab9-45e7-b759-cbe2de262183"
 ],
 "dateModified":
 "2021-04-20T18:44:03.110329-04:00",
@@ -248,7 +248,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/dandisets/000067/versions/draft/assets/1b3ec774-f583-4712-947e-65b3e76e7e2c/download/",
-"https://dandiarchive.s3.amazonaws.com/blobs/016/320/0163205c-57a7-420b-9da6-a97e0dd66ba3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUBRWC5GAEKH3223E%2F20210426%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20210426T214510Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=be1870db7836816e6347059c8c95d9c09d75c405d9931f0cf4df63ce04f617c1"
+"https://dandiarchive.s3.amazonaws.com/blobs/016/320/0163205c-57a7-420b-9da6-a97e0dd66ba3"
 ],
 "dateModified":
 "2021-04-20T18:44:02.182287-04:00",
@@ -324,7 +324,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/dandisets/000067/versions/draft/assets/46bbc997-feb3-4333-be3b-f539fa9a0224/download/",
-"https://dandiarchive.s3.amazonaws.com/blobs/b47/6c3/b476c3da-dda0-477a-bdc1-a23b38f1d06a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUBRWC5GAEKH3223E%2F20210426%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20210426T214511Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=5c34c02ebaf758c415f6e61efdbcf5e6b6ad2583980b3136cfce139f6897ac16"
+"https://dandiarchive.s3.amazonaws.com/blobs/b47/6c3/b476c3da-dda0-477a-bdc1-a23b38f1d06a"
 ],
 "dateModified":
 "2021-04-20T18:44:04.306420-04:00",
@@ -400,7 +400,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/dandisets/000067/versions/draft/assets/fab6fdba-1bcf-4aeb-b94a-8d3062984f9a/download/",
-"https://dandiarchive.s3.amazonaws.com/blobs/88c/3dc/88c3dcf7-a66f-45ea-9d2b-a60d161173d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUBRWC5GAEKH3223E%2F20210426%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20210426T214512Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=947dd6c43e57184cd40d4aae915e1e5c8ae2803ba760a3a9fa65efa769ea0660"
+"https://dandiarchive.s3.amazonaws.com/blobs/88c/3dc/88c3dcf7-a66f-45ea-9d2b-a60d161173d5"
 ],
 "dateModified":
 "2021-04-20T18:44:06.728395-04:00",
@@ -476,7 +476,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/dandisets/000067/versions/draft/assets/61bdc4dd-160b-44b1-9d79-23bd1d8a077a/download/",
-"https://dandiarchive.s3.amazonaws.com/blobs/f72/d67/f72d67cf-18d0-4f4c-9ea9-90578411ad1b?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUBRWC5GAEKH3223E%2F20210426%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20210426T214514Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=919cabaf55cb58310b52c00207ae099d67f0ab6812b23a977b126b59945393a0"
+"https://dandiarchive.s3.amazonaws.com/blobs/f72/d67/f72d67cf-18d0-4f4c-9ea9-90578411ad1b"
 ],
 "dateModified":
 "2021-04-20T18:44:08.032770-04:00",
@@ -552,7 +552,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/dandisets/000067/versions/draft/assets/ec139912-faa5-4972-9b67-5d8c6a2650d5/download/",
-"https://dandiarchive.s3.amazonaws.com/blobs/3a1/87c/3a187ccc-27a5-4cb1-8fb7-d3ef68edaf96?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUBRWC5GAEKH3223E%2F20210426%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20210426T214515Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=0973f396e8e79ba7e654df2a7880016c1af4d82f8a2bde5cc4724d6e08d0b511"
+"https://dandiarchive.s3.amazonaws.com/blobs/3a1/87c/3a187ccc-27a5-4cb1-8fb7-d3ef68edaf96"
 ],
 "dateModified":
 "2021-04-20T18:44:03.577994-04:00",
@@ -628,7 +628,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/dandisets/000067/versions/draft/assets/fe235a2a-c587-4bb2-8358-20ab2eb96227/download/",
-"https://dandiarchive.s3.amazonaws.com/blobs/f72/f3c/f72f3c87-1ee3-483a-8bbd-a855fd632ef4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUBRWC5GAEKH3223E%2F20210426%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20210426T214517Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=4b7e58bbfc269dd1ee20ebff53b8cfb3ec3405331975f5879dbd7ab1b35fc7bc"
+"https://dandiarchive.s3.amazonaws.com/blobs/f72/f3c/f72f3c87-1ee3-483a-8bbd-a855fd632ef4"
 ],
 "dateModified":
 "2021-04-20T18:44:03.372010-04:00",
@@ -704,7 +704,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/dandisets/000067/versions/draft/assets/17d3241d-7822-4aa7-ada3-3836f100dba7/download/",
-"https://dandiarchive.s3.amazonaws.com/blobs/5dd/320/5dd32004-b5b7-4a3e-8c2d-6ed70de339da?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUBRWC5GAEKH3223E%2F20210426%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20210426T214519Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=c26c3398cfebd92cb7c97b7240e17c3cfc8f6dbb1fcf83bb784cf1e37ac1b5a3"
+"https://dandiarchive.s3.amazonaws.com/blobs/5dd/320/5dd32004-b5b7-4a3e-8c2d-6ed70de339da"
 ],
 "dateModified":
 "2021-04-20T18:44:09.903054-04:00",
@@ -780,7 +780,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/dandisets/000067/versions/draft/assets/6cd1bfad-120e-4d39-a5fc-20bb36de244e/download/",
-"https://dandiarchive.s3.amazonaws.com/blobs/809/c65/809c658d-6fa6-47e7-b71f-63a484fb1f92?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUBRWC5GAEKH3223E%2F20210426%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20210426T214520Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=b342934f322105a5df06f3f55ed54d4d83f60f077a202da2e21814c90ec2b2ff"
+"https://dandiarchive.s3.amazonaws.com/blobs/809/c65/809c658d-6fa6-47e7-b71f-63a484fb1f92"
 ],
 "dateModified":
 "2021-04-20T18:44:11.424823-04:00",
@@ -856,7 +856,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/dandisets/000067/versions/draft/assets/dc4592d1-d6a5-405b-a3eb-4929530dce50/download/",
-"https://dandiarchive.s3.amazonaws.com/blobs/01e/870/01e8704f-c636-4056-89db-71ec1b0be238?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUBRWC5GAEKH3223E%2F20210426%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20210426T214521Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=bbf009e78e4401a65d6bb97b20b0dd1d9ca44f0f7690f247e9ad7b63b07bb58d"
+"https://dandiarchive.s3.amazonaws.com/blobs/01e/870/01e8704f-c636-4056-89db-71ec1b0be238"
 ],
 "dateModified":
 "2021-04-20T18:44:07.803896-04:00",
@@ -932,7 +932,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/dandisets/000067/versions/draft/assets/8723e8e4-9935-4fed-b0dc-06c21b56db31/download/",
-"https://dandiarchive.s3.amazonaws.com/blobs/b20/3d8/b203d872-ea30-40ed-b7ef-a72168e61303?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUBRWC5GAEKH3223E%2F20210426%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20210426T214523Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=73cbcb7805db9325ca1a1528b4a7dcf946e0ce2b48a5d51632b0d779f0f62c6d"
+"https://dandiarchive.s3.amazonaws.com/blobs/b20/3d8/b203d872-ea30-40ed-b7ef-a72168e61303"
 ],
 "dateModified":
 "2021-04-20T18:44:13.683072-04:00",
@@ -1008,7 +1008,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/dandisets/000067/versions/draft/assets/e22efd1b-75e9-44af-9ea5-9463f0c09adb/download/",
-"https://dandiarchive.s3.amazonaws.com/blobs/517/586/517586b0-e86a-4064-bcf4-4131c9db38ce?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUBRWC5GAEKH3223E%2F20210426%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20210426T214525Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=5a674b4b638459cb68a5ddeafd102187b87e28ae33aea9532872293425ed5c68"
+"https://dandiarchive.s3.amazonaws.com/blobs/517/586/517586b0-e86a-4064-bcf4-4131c9db38ce"
 ],
 "dateModified":
 "2021-04-20T18:44:13.809536-04:00",
@@ -1084,7 +1084,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/dandisets/000067/versions/draft/assets/a1a6adc2-9938-4719-86c6-614fb7e7a04b/download/",
-"https://dandiarchive.s3.amazonaws.com/blobs/91e/e7e/91ee7ee4-7bfc-4bff-838a-d037714deac4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUBRWC5GAEKH3223E%2F20210426%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20210426T214527Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=00aa7ab5732db3ab8ed9bbaf20de780d33880bc43669a5fc76874734e9178155"
+"https://dandiarchive.s3.amazonaws.com/blobs/91e/e7e/91ee7ee4-7bfc-4bff-838a-d037714deac4"
 ],
 "dateModified":
 "2021-04-20T18:44:33.290879-04:00",
@@ -1160,7 +1160,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/dandisets/000067/versions/draft/assets/c27821cf-0bf3-4438-81d9-2ca0121fa39e/download/",
-"https://dandiarchive.s3.amazonaws.com/blobs/9d5/0f3/9d50f31b-2c1d-409d-bc39-c1e950b915e8?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUBRWC5GAEKH3223E%2F20210426%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20210426T214538Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=8b8a786a48b456cb8b67f5a1b39dbca55b6838b416f93f97ac54581de49e235a"
+"https://dandiarchive.s3.amazonaws.com/blobs/9d5/0f3/9d50f31b-2c1d-409d-bc39-c1e950b915e8"
 ],
 "dateModified":
 "2021-04-20T18:44:38.116411-04:00",
@@ -1236,7 +1236,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/dandisets/000067/versions/draft/assets/bfea657e-90f8-4f46-a086-752359e68789/download/",
-"https://dandiarchive.s3.amazonaws.com/blobs/e15/488/e154889f-aa49-461d-aecf-b182ab24a157?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUBRWC5GAEKH3223E%2F20210426%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20210426T214551Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=3c43d5787843607436fb25ddf454c75db33b3f3cf7881feded1421da36b1fcbc"
+"https://dandiarchive.s3.amazonaws.com/blobs/e15/488/e154889f-aa49-461d-aecf-b182ab24a157"
 ],
 "dateModified":
 "2021-04-20T18:44:55.382402-04:00",
@@ -1312,7 +1312,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/dandisets/000067/versions/draft/assets/11230966-297f-44ae-917a-f3bfc855395d/download/",
-"https://dandiarchive.s3.amazonaws.com/blobs/31b/492/31b49214-9456-40b8-834e-daebab8a8587?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUBRWC5GAEKH3223E%2F20210426%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20210426T214614Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=53fd4cad2e68afa65277078446cd6dddd4fc9d66944a55fcd74fdedfe1f44ead"
+"https://dandiarchive.s3.amazonaws.com/blobs/31b/492/31b49214-9456-40b8-834e-daebab8a8587"
 ],
 "dateModified":
 "2021-04-20T18:45:00.552863-04:00",
@@ -1388,7 +1388,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/dandisets/000067/versions/draft/assets/162e5b43-1b64-48e7-843b-4c66c5e42963/download/",
-"https://dandiarchive.s3.amazonaws.com/blobs/2e5/a01/2e5a01cf-ddb5-45e7-9c73-eb4b085e5332?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUBRWC5GAEKH3223E%2F20210426%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20210426T214637Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=d2dd94702b4eb5ed282033c838a2f2154b90eacabbe9c89b303128edf98b82a0"
+"https://dandiarchive.s3.amazonaws.com/blobs/2e5/a01/2e5a01cf-ddb5-45e7-9c73-eb4b085e5332"
 ],
 "dateModified":
 "2021-04-20T18:45:00.341674-04:00",
@@ -1464,7 +1464,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/dandisets/000067/versions/draft/assets/410bf692-3946-4d86-b9f9-a5249a1a10db/download/",
-"https://dandiarchive.s3.amazonaws.com/blobs/a7c/497/a7c49719-a32d-459d-9aa9-8558826d61d0?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUBRWC5GAEKH3223E%2F20210426%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20210426T214706Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=358165785f35832cb7e64a5fa0697b67da71376339dd9899fad5a9463cd3267d"
+"https://dandiarchive.s3.amazonaws.com/blobs/a7c/497/a7c49719-a32d-459d-9aa9-8558826d61d0"
 ],
 "dateModified":
 "2021-04-20T18:45:40.660814-04:00",
@@ -1540,7 +1540,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/dandisets/000067/versions/draft/assets/d15bc24d-a522-4d14-9a5a-f0aa8e01b3ed/download/",
-"https://dandiarchive.s3.amazonaws.com/blobs/c18/f0c/c18f0cd3-48ea-4ae3-8314-6dab5026a6a4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUBRWC5GAEKH3223E%2F20210426%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20210426T214745Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=ed7cfd57e91bde428c55c9bb75aa046912833a08fdb586f6f1fbc1572ccdf4a6"
+"https://dandiarchive.s3.amazonaws.com/blobs/c18/f0c/c18f0cd3-48ea-4ae3-8314-6dab5026a6a4"
 ],
 "dateModified":
 "2021-04-20T18:45:50.361633-04:00",
@@ -1616,7 +1616,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/dandisets/000067/versions/draft/assets/591d99e2-2bbc-4c08-bf0e-642ac70bdbb0/download/",
-"https://dandiarchive.s3.amazonaws.com/blobs/fef/c65/fefc65c4-a794-4b9c-bec0-2154329e35a7?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUBRWC5GAEKH3223E%2F20210426%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20210426T214819Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=5c81a64d3e099720bfdaaf17ef01d3b4dab28c97a8a031f3f5f5a5954a3210b4"
+"https://dandiarchive.s3.amazonaws.com/blobs/fef/c65/fefc65c4-a794-4b9c-bec0-2154329e35a7"
 ],
 "dateModified":
 "2021-04-20T18:46:29.089424-04:00",
@@ -1692,7 +1692,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/dandisets/000067/versions/draft/assets/65e9c636-56f6-414b-97a3-26cee24cd19b/download/",
-"https://dandiarchive.s3.amazonaws.com/blobs/724/5cb/7245cb39-5939-4625-ad72-762341b9028e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUBRWC5GAEKH3223E%2F20210426%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20210426T214847Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=6226b650e710d96e35d8c33ebd4dc03109ce35440b9956958cec5e99ec7a011b"
+"https://dandiarchive.s3.amazonaws.com/blobs/724/5cb/7245cb39-5939-4625-ad72-762341b9028e"
 ],
 "dateModified":
 "2021-04-20T18:46:25.741761-04:00",
@@ -1768,7 +1768,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/dandisets/000067/versions/draft/assets/e80663fb-6ee5-4a2b-859f-8adc3523bdee/download/",
-"https://dandiarchive.s3.amazonaws.com/blobs/f30/0d2/f300d2a3-0a82-4c31-b325-3f4ad4b84693?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUBRWC5GAEKH3223E%2F20210426%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20210426T214914Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=6d30717752675913fc54478a4c3c0eff816d0ce8ecdc1a5dee042684c3bd62da"
+"https://dandiarchive.s3.amazonaws.com/blobs/f30/0d2/f300d2a3-0a82-4c31-b325-3f4ad4b84693"
 ],
 "dateModified":
 "2021-04-20T18:46:22.818376-04:00",
@@ -1844,7 +1844,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/dandisets/000067/versions/draft/assets/ecf08b3c-6ca0-4fe7-98b3-ce00787d25d3/download/",
-"https://dandiarchive.s3.amazonaws.com/blobs/baf/ba7/bafba716-ed72-4654-a72e-f8d2d9ac59a9?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUBRWC5GAEKH3223E%2F20210426%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20210426T214951Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=3cb021a8d953b5c79bb1a2bfc71a8c65a1c1e36d5630b1cefe457c653255ef56"
+"https://dandiarchive.s3.amazonaws.com/blobs/baf/ba7/bafba716-ed72-4654-a72e-f8d2d9ac59a9"
 ],
 "dateModified":
 "2021-04-20T18:47:31.691857-04:00",
@@ -1920,7 +1920,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/dandisets/000067/versions/draft/assets/a126583d-ca10-4108-9ee0-3c1d030ef73e/download/",
-"https://dandiarchive.s3.amazonaws.com/blobs/da1/9d2/da19d227-3b7e-4631-96ef-0a4f25449641?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUBRWC5GAEKH3223E%2F20210426%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20210426T215022Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=c767375e8295372044786b3f321fe4c1faf2660b8af11c80e065058a734a331e"
+"https://dandiarchive.s3.amazonaws.com/blobs/da1/9d2/da19d227-3b7e-4631-96ef-0a4f25449641"
 ],
 "dateModified":
 "2021-04-20T18:47:35.791154-04:00",
@@ -1996,7 +1996,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/dandisets/000067/versions/draft/assets/485062be-3c3d-47bc-8b37-fe14332c7487/download/",
-"https://dandiarchive.s3.amazonaws.com/blobs/ea4/e1b/ea4e1ba2-c0d0-430d-854f-d03840e883a7?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUBRWC5GAEKH3223E%2F20210426%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20210426T215100Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=d7e243c42f7e4314b0b36000897029b493478455d60c6b7d62c357b4e92d0966"
+"https://dandiarchive.s3.amazonaws.com/blobs/ea4/e1b/ea4e1ba2-c0d0-430d-854f-d03840e883a7"
 ],
 "dateModified":
 "2021-04-20T18:48:06.576264-04:00",
@@ -2072,7 +2072,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/dandisets/000067/versions/draft/assets/078afd36-6c7d-442c-b10e-0ad59ea93f6a/download/",
-"https://dandiarchive.s3.amazonaws.com/blobs/0b7/0a1/0b70a1ea-24da-4ecf-9330-89ea7ee9be96?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUBRWC5GAEKH3223E%2F20210426%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20210426T215135Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=719b03c2eb413345105dfb446cb2d22d81762bc143dfd2bc6addd0e206d0ad53"
+"https://dandiarchive.s3.amazonaws.com/blobs/0b7/0a1/0b70a1ea-24da-4ecf-9330-89ea7ee9be96"
 ],
 "dateModified":
 "2021-04-20T18:47:46.647937-04:00",
