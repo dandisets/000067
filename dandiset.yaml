@@ -31,6 +31,7 @@ contributor:
   - dandi:Author
   schemaKey: Person
 - affiliation: []
+  identifier: 0000-0002-3100-4800
   includeInCitation: true
   name: György Buzsáki
   roleName:
@@ -62,6 +63,7 @@ relatedResource:
 - relation: dandi:IsDescribedBy
   url: https://www.nature.com/articles/nn.2134
 repository: https://dandiarchive.org/
+schemaKey: Dandiset
 schemaVersion: 0.3.0
 studyTarget: []
 url: https://dandiarchive.org/000067/draft
