@@ -86,7 +86,8 @@ id: DANDI:000067/draft
 identifier: DANDI:000067
 keywords: []
 license: []
-manifestLocation: []
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000067/versions/draft/assets/
 name: Behavior-dependent short-term assembly dynamics in the medial prefrontal cortex
 protocol: []
 relatedResource:
