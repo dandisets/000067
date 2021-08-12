@@ -40,7 +40,7 @@ assetsSummary:
   - ElectricalSeries
 citation: Fujisawa, Shigeyoshi; Amarasingham, Asohan; Harrison, Matthew; Buzsáki,
   György (2021) Behavior-dependent short-term assembly dynamics in the medial prefrontal
-  cortex (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000067/draft
+  cortex (Version 0.210812.1457) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000067/0.210812.1457
 contributor:
 - affiliation: []
   includeInCitation: true
@@ -68,6 +68,7 @@ contributor:
   roleName:
   - dcite:Author
   schemaKey: Person
+datePublished: '2021-08-12T14:57:31.160475'
 description: Although short-term plasticity is believed to play a fundamental role
   in cortical computation, empirical evidence bearing on its role during behavior
   is scarce. Here we looked for the signature of short-term plasticity in the fine-timescale
@@ -82,16 +83,29 @@ description: Although short-term plasticity is believed to play a fundamental ro
   we found evidence for both firing pattern–dependent facilitation and depression,
   as well as for a supralinear effect of presynaptic coincidence on the firing of
   postsynaptic targets.
+doi: 10.48324/dandi.000067/0.210812.1457
 ethicsApproval: []
-id: DANDI:000067/draft
+id: DANDI:000067/0.210812.1457
 identifier: DANDI:000067
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000067/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000067/0.210812.1457/assets.yaml
 name: Behavior-dependent short-term assembly dynamics in the medial prefrontal cortex
 protocol: []
+publishedBy:
+  endDate: '2021-08-12T14:57:31.160475'
+  id: urn:uuid:d60ad1a8-cd01-480a-819a-80327d9952fd
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2021-08-12T14:57:31.160475'
+  wasAssociatedWith:
+  - id: urn:uuid:1954bca2-ce63-4c63-be91-7dfa3389cc46
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - relation: dcite:IsDescribedBy
   url: https://www.nature.com/articles/nn.2134
@@ -99,6 +113,6 @@ repository: https://dandiarchive.org/
 schemaKey: Dandiset
 schemaVersion: 0.4.4
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000067/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000067/0.210812.1457
+version: 0.210812.1457
 wasGeneratedBy: []
