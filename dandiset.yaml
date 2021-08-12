@@ -38,25 +38,26 @@ assetsSummary:
   - ProcessingModule
   - Units
   - ElectricalSeries
-citation: Shigeyoshi Fujisawa; Asohan Amarasingham; Matthew T Harrison; Buzsáki, György
-  (2021) Behavior-dependent short-term assembly dynamics in the medial prefrontal
+citation: Fujisawa, Shigeyoshi; Amarasingham, Asohan; Harrison, Matthew; Buzsáki,
+  György (2021) Behavior-dependent short-term assembly dynamics in the medial prefrontal
   cortex (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000067/draft
 contributor:
 - affiliation: []
   includeInCitation: true
-  name: Shigeyoshi Fujisawa
+  name: Fujisawa, Shigeyoshi
+  roleName:
+  - dcite:Author
+  - dcite:ContactPerson
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Amarasingham, Asohan
   roleName:
   - dcite:Author
   schemaKey: Person
 - affiliation: []
   includeInCitation: true
-  name: Asohan Amarasingham
-  roleName:
-  - dcite:Author
-  schemaKey: Person
-- affiliation: []
-  includeInCitation: true
-  name: Matthew T Harrison
+  name: Harrison, Matthew
   roleName:
   - dcite:Author
   schemaKey: Person
@@ -85,7 +86,8 @@ ethicsApproval: []
 id: DANDI:000067/draft
 identifier: DANDI:000067
 keywords: []
-license: []
+license:
+- spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000067/versions/draft/assets/
 name: Behavior-dependent short-term assembly dynamics in the medial prefrontal cortex
