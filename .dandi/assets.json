@@ -2,6 +2,8 @@
 {
 "asset_id":
 "8972eac7-aeec-42c0-baee-ba2e03cc5308",
+"created":
+"2021-07-03T04:23:24.409529+00:00",
 "metadata":
 {
 "@context":
@@ -192,6 +194,8 @@
 {
 "asset_id":
 "ee7ccc96-3eac-484f-9cc3-2845fee5138b",
+"created":
+"2021-07-03T04:23:24.535723+00:00",
 "metadata":
 {
 "@context":
@@ -382,6 +386,8 @@
 {
 "asset_id":
 "ba7a6e0a-76b8-4670-ac5f-84e63c995224",
+"created":
+"2021-07-03T04:23:24.666681+00:00",
 "metadata":
 {
 "@context":
@@ -596,6 +602,8 @@
 {
 "asset_id":
 "2cbd4666-cf93-412e-94a5-4845623f4e0a",
+"created":
+"2021-07-03T04:23:24.799347+00:00",
 "metadata":
 {
 "@context":
@@ -810,6 +818,8 @@
 {
 "asset_id":
 "bf831401-cf98-4824-96cf-9493a5e46328",
+"created":
+"2021-07-03T04:23:24.930450+00:00",
 "metadata":
 {
 "@context":
@@ -1024,6 +1034,8 @@
 {
 "asset_id":
 "47768ce7-b6bc-49d2-b37d-606e0abd471c",
+"created":
+"2021-07-03T04:23:25.145489+00:00",
 "metadata":
 {
 "@context":
@@ -1238,6 +1250,8 @@
 {
 "asset_id":
 "4e4a6bd0-1d7b-4f65-949a-c92ca2bf5149",
+"created":
+"2021-07-03T04:23:25.274518+00:00",
 "metadata":
 {
 "@context":
@@ -1452,6 +1466,8 @@
 {
 "asset_id":
 "1132d95d-d7b8-4b9b-b3a1-2b4a9c3aa740",
+"created":
+"2021-07-03T04:23:25.402763+00:00",
 "metadata":
 {
 "@context":
@@ -1654,6 +1670,8 @@
 {
 "asset_id":
 "117532ce-d57c-4967-ad58-c1fd3bf6d745",
+"created":
+"2021-07-03T04:23:25.530673+00:00",
 "metadata":
 {
 "@context":
@@ -1844,6 +1862,8 @@
 {
 "asset_id":
 "3f52c04f-cf8f-40d3-87b7-feb6824639df",
+"created":
+"2021-07-03T04:23:25.657386+00:00",
 "metadata":
 {
 "@context":
@@ -2058,6 +2078,8 @@
 {
 "asset_id":
 "5d7c18ff-3ba5-45c4-84f0-d196472c6ba5",
+"created":
+"2021-07-03T04:23:25.785693+00:00",
 "metadata":
 {
 "@context":
@@ -2272,6 +2294,8 @@
 {
 "asset_id":
 "d717dbf9-1d67-44d2-b169-7893c70bb3d9",
+"created":
+"2021-07-03T04:23:25.914433+00:00",
 "metadata":
 {
 "@context":
@@ -2486,6 +2510,8 @@
 {
 "asset_id":
 "c52c1c22-ad74-499f-bbcd-44d2777b87e6",
+"created":
+"2021-07-03T04:23:26.134683+00:00",
 "metadata":
 {
 "@context":
@@ -2688,6 +2714,8 @@
 {
 "asset_id":
 "782e93e6-0fe0-4d19-a645-be0c0f5325f7",
+"created":
+"2021-07-03T04:23:26.262581+00:00",
 "metadata":
 {
 "@context":
@@ -2902,6 +2930,8 @@
 {
 "asset_id":
 "3d6e7777-492e-4e55-8d50-a38b368cac37",
+"created":
+"2021-07-03T04:23:26.393525+00:00",
 "metadata":
 {
 "@context":
@@ -3092,6 +3122,8 @@
 {
 "asset_id":
 "972b6765-4094-4f24-b71e-ecd289452cfe",
+"created":
+"2021-07-03T04:23:26.521704+00:00",
 "metadata":
 {
 "@context":
@@ -3282,6 +3314,8 @@
 {
 "asset_id":
 "006fbf4e-b5c4-47e6-a902-20c95c2fb4f8",
+"created":
+"2021-07-03T04:23:26.650858+00:00",
 "metadata":
 {
 "@context":
@@ -3472,6 +3506,8 @@
 {
 "asset_id":
 "b3c83e5f-4531-42c0-b6d2-c9d1b8985438",
+"created":
+"2021-07-03T04:23:26.780272+00:00",
 "metadata":
 {
 "@context":
@@ -3662,6 +3698,8 @@
 {
 "asset_id":
 "000632da-151d-47cf-8ef0-b4ed9373cc24",
+"created":
+"2021-07-03T04:23:26.912517+00:00",
 "metadata":
 {
 "@context":
@@ -3852,6 +3890,8 @@
 {
 "asset_id":
 "d6fb0ed6-dae5-466b-9046-415daf33f253",
+"created":
+"2021-07-03T04:23:27.122898+00:00",
 "metadata":
 {
 "@context":
@@ -4042,6 +4082,8 @@
 {
 "asset_id":
 "0d466f91-9f09-4ba4-a9f3-4430a2043beb",
+"created":
+"2021-07-03T04:23:27.258795+00:00",
 "metadata":
 {
 "@context":
@@ -4244,6 +4286,8 @@
 {
 "asset_id":
 "9df9b5b6-e282-477d-9dc2-727886b6b921",
+"created":
+"2021-07-03T04:23:27.396144+00:00",
 "metadata":
 {
 "@context":
@@ -4434,6 +4478,8 @@
 {
 "asset_id":
 "395462ef-f002-4878-8f56-cc91d105c2db",
+"created":
+"2021-07-03T04:23:27.524600+00:00",
 "metadata":
 {
 "@context":
@@ -4624,6 +4670,8 @@
 {
 "asset_id":
 "62dd2e86-1b5d-4964-811e-8b9f1667b597",
+"created":
+"2021-07-03T04:23:27.653015+00:00",
 "metadata":
 {
 "@context":
@@ -4814,6 +4862,8 @@
 {
 "asset_id":
 "b321115c-bab8-41d1-8d48-3fdb6ee1b720",
+"created":
+"2021-07-03T04:23:27.781546+00:00",
 "metadata":
 {
 "@context":
@@ -5004,6 +5054,8 @@
 {
 "asset_id":
 "e2015b4e-2b6e-4a10-9c57-847a5ea7f6ee",
+"created":
+"2021-07-03T04:23:27.912039+00:00",
 "metadata":
 {
 "@context":
@@ -5194,6 +5246,8 @@
 {
 "asset_id":
 "f22d7ea3-d333-49d3-ad09-2f28b0a5cc1e",
+"created":
+"2021-07-03T04:23:28.115170+00:00",
 "metadata":
 {
 "@context":
@@ -5384,6 +5438,8 @@
 {
 "asset_id":
 "19691835-bb2e-4aff-ad3e-a7c29407c81e",
+"created":
+"2021-07-03T04:23:28.276676+00:00",
 "metadata":
 {
 "@context":
