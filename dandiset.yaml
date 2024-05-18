@@ -68,6 +68,49 @@ contributor:
   roleName:
   - dcite:Author
   schemaKey: Person
+- awardNumber: NS34994, MH54671, MH064537
+  identifier: https://ror.org/01cwqze88
+  includeInCitation: false
+  name: National Institute of Health
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- identifier: https://ror.org/03dy4aq19
+  includeInCitation: false
+  name: James S. McDonnell Foundation
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: https://www.jsmf.org/
+- awardNumber: DMS-0240019
+  identifier: https://ror.org/021nxhr62
+  includeInCitation: false
+  name: US National Science Foundation
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: https://www.nsf.gov
+- identifier: https://ror.org/00gc20a07
+  includeInCitation: false
+  name: Uehara Memorial Foundation
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: http://www.ueharazaidan.or.jp/
+- identifier: https://ror.org/02s016q17
+  includeInCitation: false
+  name: Naito Foundation
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: https://www.naito-f.or.jp/en/
+- identifier: https://ror.org/02m7axw05
+  includeInCitation: false
+  name: Japan Society for the Promotion of Science
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: http://www.jsps.org/
 dateCreated: '2021-04-19T17:30:57.429000+00:00'
 description: Although short-term plasticity is believed to play a fundamental role
   in cortical computation, empirical evidence bearing on its role during behavior
@@ -97,7 +140,7 @@ relatedResource:
 - identifier: https://doi.org/10.1038/nn.2134
   name: Behavior-dependent short-term assembly dynamics in the medial prefrontal cortex
   relation: dcite:IsDescribedBy
-  repository: Neuron
+  repository: Nature Neuroscience
   resourceType: dcite:JournalArticle
   schemaKey: Resource
   url: https://www.nature.com/articles/nn.2134
