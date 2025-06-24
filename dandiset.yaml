@@ -8,6 +8,7 @@ access:
 - contactPoint:
     email: petersen.peter@gmail.com
     schemaKey: ContactPoint
+  schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
   approach:
@@ -40,10 +41,18 @@ assetsSummary:
   - Units
   - ElectricalSeries
 citation: Fujisawa, Shigeyoshi; Amarasingham, Asohan; Harrison, Matthew; Buzsáki,
-  György (2024) Behavior-dependent short-term assembly dynamics in the medial prefrontal
-  cortex (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000067/draft
+  György (2025) Behavior-dependent short-term assembly dynamics in the medial prefrontal
+  cortex (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000067/draft
 contributor:
-- affiliation: []
+- affiliation:
+  - identifier: https://ror.org/005dvqh91
+    name: New York University Langone Medical Center
+    schemaKey: Affiliation
+  - identifier: https://ror.org/0190ak572
+    name: New York University
+    schemaKey: Affiliation
+  email: shigeyoshi.fujisawa@riken.jp
+  identifier: 0000-0003-3963-4281
   includeInCitation: true
   name: Fujisawa, Shigeyoshi
   roleName:
@@ -51,18 +60,26 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 - affiliation: []
+  identifier: 0000-0002-0722-0538
   includeInCitation: true
   name: Amarasingham, Asohan
   roleName:
   - dcite:Author
   schemaKey: Person
 - affiliation: []
+  identifier: 0000-0003-3715-8357
   includeInCitation: true
   name: Harrison, Matthew
   roleName:
   - dcite:Author
   schemaKey: Person
-- affiliation: []
+- affiliation:
+  - identifier: https://ror.org/005dvqh91
+    name: New York University Langone Medical Center
+    schemaKey: Affiliation
+  - identifier: https://ror.org/0190ak572
+    name: New York University
+    schemaKey: Affiliation
   identifier: 0000-0002-3100-4800
   includeInCitation: true
   name: Buzsáki, György
@@ -112,7 +129,13 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
   url: http://www.jsps.org/
+- identifier: 0000-0002-0829-4790
+  name: Baker, Cody
+  roleName:
+  - dcite:DataCurator
+  schemaKey: Person
 dateCreated: '2021-04-19T17:30:57.429000+00:00'
+datePublished: '2025-06-24T04:19:36.627030+00:00'
 description: Although short-term plasticity is believed to play a fundamental role
   in cortical computation, empirical evidence bearing on its role during behavior
   is scarce. Here we looked for the signature of short-term plasticity in the fine-timescale
@@ -130,13 +153,23 @@ description: Although short-term plasticity is believed to play a fundamental ro
 ethicsApproval: []
 id: DANDI:000067/draft
 identifier: DANDI:000067
-keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000067/versions/draft/assets/
 name: Behavior-dependent short-term assembly dynamics in the medial prefrontal cortex
-protocol: []
+publishedBy:
+  endDate: '2025-06-24T04:19:36.627030+00:00'
+  id: urn:uuid:3593fb00-323b-444e-9be9-88ca8501ceb1
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2025-06-24T04:19:36.627030+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:f47c0a92-be87-4f0c-a7fe-2a6f3324ccdd
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - identifier: https://doi.org/10.1038/nn.2134
   name: Behavior-dependent short-term assembly dynamics in the medial prefrontal cortex
@@ -148,7 +181,6 @@ relatedResource:
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.4.4
-studyTarget: []
 url: https://dandiarchive.org/dandiset/000067/draft
 version: draft
 wasGeneratedBy: []
