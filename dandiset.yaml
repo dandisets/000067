@@ -92,21 +92,21 @@ contributor:
 - awardNumber: NS34994
   identifier: https://ror.org/01cwqze88
   includeInCitation: false
-  name: National Institute of Health
+  name: National Institutes of Health
   roleName:
   - dcite:Funder
   schemaKey: Organization
 - awardNumber: MH54671
   identifier: https://ror.org/01cwqze88
   includeInCitation: false
-  name: National Institute of Health
+  name: National Institutes of Health
   roleName:
   - dcite:Funder
   schemaKey: Organization
 - awardNumber: MH064537
   identifier: https://ror.org/01cwqze88
   includeInCitation: false
-  name: National Institute of Health
+  name: National Institutes of Health
   roleName:
   - dcite:Funder
   schemaKey: Organization
