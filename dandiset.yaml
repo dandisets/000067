@@ -22,16 +22,16 @@ assetsSummary:
     name: Neurodata Without Borders (NWB)
     schemaKey: StandardsType
   measurementTechnique:
-  - name: signal filtering technique
+  - name: multi electrode extracellular electrophysiology recording technique
     schemaKey: MeasurementTechniqueType
   - name: analytical technique
     schemaKey: MeasurementTechniqueType
-  - name: multi electrode extracellular electrophysiology recording technique
+  - name: signal filtering technique
     schemaKey: MeasurementTechniqueType
   - name: spike sorting technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 94565736755
-  numberOfFiles: 28
+  numberOfBytes: 94364711432
+  numberOfFiles: 25
   numberOfSubjects: 3
   schemaKey: AssetsSummary
   species:
@@ -39,10 +39,10 @@ assetsSummary:
     name: Brown rat
     schemaKey: SpeciesType
   variableMeasured:
-  - LFP
-  - ProcessingModule
   - Units
   - ElectricalSeries
+  - LFP
+  - ProcessingModule
 citation: Fujisawa, Shigeyoshi; Amarasingham, Asohan; Harrison, Matthew; Buzsáki,
   György (2026) Behavior-dependent short-term assembly dynamics in the medial prefrontal
   cortex (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000067/draft
