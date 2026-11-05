@@ -30,19 +30,25 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: spike sorting technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 94364711432
-  numberOfFiles: 25
+  - name: surgical technique
+    schemaKey: MeasurementTechniqueType
+  numberOfBytes: 94623442635
+  numberOfFiles: 27
   numberOfSubjects: 3
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10116
     name: Brown rat
     schemaKey: SpeciesType
+  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10116
+    name: Rattus norvegicus - Norway rat
+    schemaKey: SpeciesType
   variableMeasured:
   - Units
   - ElectricalSeries
   - LFP
   - ProcessingModule
+  - ElectrodeGroup
 citation: Fujisawa, Shigeyoshi; Amarasingham, Asohan; Harrison, Matthew; Buzsáki,
   György (2026) Behavior-dependent short-term assembly dynamics in the medial prefrontal
   cortex (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000067/draft
