@@ -5813,15 +5813,15 @@
 },
 {
 "asset_id":
-"0d466f91-9f09-4ba4-a9f3-4430a2043beb",
+"4e7c157e-5af0-498f-827e-337fd61abc3a",
 "blob":
-"c18f0cd3-48ea-4ae3-8314-6dab5026a6a4",
+"1e8636ba-f323-4ad7-b44e-b1fa14085348",
 "created":
-"2021-07-03T04:23:27.258795Z",
+"2026-11-05T04:35:48.941041Z",
 "metadata":
 {
 "@context":
-"https://raw.githubusercontent.com/dandi/schema/master/releases/0.4.4/context.json",
+"https://raw.githubusercontent.com/dandi/schema/master/releases/0.7.0/context.json",
 "access":
 [
 {
@@ -5838,39 +5838,62 @@
 "electrophysiological approach",
 "schemaKey":
 "ApproachType"
+},
+{
+"name":
+"behavioral approach",
+"schemaKey":
+"ApproachType"
 }
 ],
 "blobDateModified":
-"2021-04-19T15:09:38.553213-04:00",
+"2026-11-04T22:45:34.804786-05:00",
 "contentSize":
-7450631945,
+7793186720,
 "contentUrl":
 [
-"https://api.dandiarchive.org/api/assets/0d466f91-9f09-4ba4-a9f3-4430a2043beb/download/",
-"https://dandiarchive.s3.amazonaws.com/blobs/c18/f0c/c18f0cd3-48ea-4ae3-8314-6dab5026a6a4"
+"https://api.dandiarchive.org/api/assets/4e7c157e-5af0-498f-827e-337fd61abc3a/download/",
+"https://dandiarchive.s3.amazonaws.com/blobs/1e8/636/1e8636ba-f323-4ad7-b44e-b1fa14085348"
 ],
 "dateModified":
-"2021-07-03T00:23:27.156391-04:00",
-"datePublished":
-"2021-08-12T14:57:32.587469",
+"2026-11-04T23:16:21.780148-05:00",
 "digest":
 {
 "dandi:dandi-etag":
-"b76b54762afcebace218656dd185b5a9-112",
+"93faf73fe42f5f4513d991d648149f63-117",
 "dandi:sha2-256":
-"ab349ef0fd9efd65b09110a7fece1897a7081bec4568b36c01a0d10e147ff6c2"
+"01caf39b5dfcf2a70c52986f68f75943df7795c63068984708ea70477bb72d87"
 },
 "encodingFormat":
 "application/x-nwb",
 "id":
-"dandiasset:0d466f91-9f09-4ba4-a9f3-4430a2043beb",
+"dandiasset:4e7c157e-5af0-498f-827e-337fd61abc3a",
 "identifier":
-"0d466f91-9f09-4ba4-a9f3-4430a2043beb",
+"4e7c157e-5af0-498f-827e-337fd61abc3a",
+"keywords":
+[
+"medial prefrontal cortex",
+"CA1",
+"working memory",
+"silicon probe"
+],
 "measurementTechnique":
 [
 {
 "name":
-"signal filtering technique",
+"multi electrode extracellular electrophysiology recording technique",
+"schemaKey":
+"MeasurementTechniqueType"
+},
+{
+"name":
+"behavioral technique",
+"schemaKey":
+"MeasurementTechniqueType"
+},
+{
+"name":
+"spike sorting technique",
 "schemaKey":
 "MeasurementTechniqueType"
 },
@@ -5882,47 +5905,42 @@
 },
 {
 "name":
-"spike sorting technique",
+"signal filtering technique",
+"schemaKey":
+"MeasurementTechniqueType"
+},
+{
+"name":
+"surgical technique",
 "schemaKey":
 "MeasurementTechniqueType"
 }
 ],
 "path":
 "sub-EE/sub-EE_ses-EE-210_ecephys.nwb",
-"publishedBy":
-{
-"endDate":
-"2021-08-12T14:57:32.587469",
-"id":
-"urn:uuid:7d03c22a-3492-40fd-8a51-1ddda3728594",
-"name":
-"DANDI publish",
-"schemaKey":
-"PublishActivity",
-"startDate":
-"2021-08-12T14:57:32.587469",
-"wasAssociatedWith":
+"relatedResource":
 [
 {
-"id":
-"urn:uuid:1c7469ad-d03b-4e53-ad07-973e319440f0",
 "identifier":
-"RRID:SCR_017571",
-"name":
-"DANDI API",
+"https://doi.org/10.1038/nn.2134",
+"relation":
+"dcite:IsDescribedBy",
 "schemaKey":
-"Software",
-"version":
-"0.1.0"
-}
-]
+"Resource"
 },
-"repository":
-"https://dandiarchive.org/",
+{
+"identifier":
+"https://doi.org/10.6080/K01V5BWK",
+"relation":
+"dcite:IsDescribedBy",
+"schemaKey":
+"Resource"
+}
+],
 "schemaKey":
 "Asset",
 "schemaVersion":
-"0.4.4",
+"0.7.0",
 "variableMeasured":
 [
 {
@@ -5941,12 +5959,52 @@
 "schemaKey":
 "PropertyValue",
 "value":
+"SpatialSeries"
+},
+{
+"schemaKey":
+"PropertyValue",
+"value":
+"ElectrodeGroup"
+},
+{
+"schemaKey":
+"PropertyValue",
+"value":
+"ElectricalSeries"
+},
+{
+"schemaKey":
+"PropertyValue",
+"value":
 "ProcessingModule"
+},
+{
+"schemaKey":
+"PropertyValue",
+"value":
+"Position"
 }
 ],
 "wasAttributedTo":
 [
 {
+"age":
+{
+"schemaKey":
+"PropertyValue",
+"unitText":
+"ISO-8601 duration",
+"value":
+"P3M/P5M",
+"valueReference":
+{
+"schemaKey":
+"PropertyValue",
+"value":
+"dandi:BirthReference"
+}
+},
 "identifier":
 "EE",
 "schemaKey":
@@ -5965,7 +6023,7 @@
 "identifier":
 "http://purl.obolibrary.org/obo/NCBITaxon_10116",
 "name":
-"Brown rat",
+"Rattus norvegicus - Norway rat",
 "schemaKey":
 "SpeciesType"
 }
@@ -5975,23 +6033,31 @@
 [
 {
 "description":
-"Although short-term plasticity is believed to play a fundamental role in cortical computation, empirical evidence bearing on its role during behavior is scarce. Here we looked for the signature of short-term plasticity in the fine-timescale spiking relationships of a simultaneously recorded population of physiologically identified pyramidal cells and interneurons, in the medial prefrontal cortex of the rat, in a working memory task. On broader timescales, sequentially organized and transiently active neurons reliably differentiated between different trajectories of the rat in the maze. On finer timescales, putative monosynaptic interactions reflected short-term plasticity in their dynamic and predictable modulation across various aspects of the task, beyond a statistical accounting for the effect of the neurons' co-varying firing rates. Seeking potential mechanisms for such effects, we found evidence for both firing pattern-dependent facilitation and depression, as well as for a supralinear effect of presynaptic coincidence on the firing of postsynaptic targets.",
+"Working memory task in the maze: each trial starts with nose pokes in the start area and ends with the reward in the left or right side arm. Session EE.210 of rat EE, recorded on 07/11 (40.2 min). The time of day is not recorded in the source, so the start time is midnight of the recording day.",
+"endDate":
+"2006-07-11T00:40:11.801600-04:00",
 "identifier":
 "EE.210",
 "name":
 "EE.210",
 "schemaKey":
-"Session"
+"Session",
+"startDate":
+"2006-07-11T00:00:00-04:00"
 },
 {
 "description":
 "Metadata generated by DANDI cli",
+"endDate":
+"2026-11-04T23:16:21.780116-05:00",
 "id":
-"urn:uuid:736eb97e-7e88-4603-b310-cef21df7ef7b",
+"urn:uuid:ae0278ff-8133-4554-b3e9-34ff2b73d8aa",
 "name":
 "Metadata generation",
 "schemaKey":
 "Activity",
+"startDate":
+"2026-11-04T23:16:21.666533-05:00",
 "wasAssociatedWith":
 [
 {
@@ -6004,18 +6070,18 @@
 "url":
 "https://github.com/dandi/dandi-cli",
 "version":
-"0.22.0"
+"0.81.0"
 }
 ]
 }
 ]
 },
 "modified":
-"2021-08-05T18:52:49.451478Z",
+"2026-11-05T04:35:48.941060Z",
 "path":
 "sub-EE/sub-EE_ses-EE-210_ecephys.nwb",
 "size":
-7450631945
+7793186720
 },
 {
 "asset_id":
