@@ -54,7 +54,7 @@ assetsSummary:
   - SpatialSeries
 citation: Fujisawa, Shigeyoshi; Amarasingham, Asohan; Harrison, Matthew; Buzsáki,
   György (2026) Behavior-dependent short-term assembly dynamics in the medial prefrontal
-  cortex (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000067/draft
+  cortex (Version 0.261106.0244) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.000067/0.261106.0244
 contributor:
 - affiliation:
   - identifier: https://ror.org/05vt9qd57
@@ -165,6 +165,7 @@ contributor:
   - dcite:DataCurator
   schemaKey: Person
 dateCreated: '2021-04-19T17:30:57.429000+00:00'
+datePublished: '2026-11-06T02:44:49.570383+00:00'
 description: Although short-term plasticity is believed to play a fundamental role
   in cortical computation, empirical evidence bearing on its role during behavior
   is scarce. Here we looked for the signature of short-term plasticity in the fine-timescale
@@ -179,8 +180,9 @@ description: Although short-term plasticity is believed to play a fundamental ro
   we found evidence for both firing pattern–dependent facilitation and depression,
   as well as for a supralinear effect of presynaptic coincidence on the firing of
   postsynaptic targets.
+doi: 10.48324/dandi.000067/0.261106.0244
 ethicsApproval: []
-id: DANDI:000067/draft
+id: DANDI:000067/0.261106.0244
 identifier: DANDI:000067
 keywords:
 - working memory
@@ -192,8 +194,20 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000067/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000067/0.261106.0244/assets.yaml
 name: Behavior-dependent short-term assembly dynamics in the medial prefrontal cortex
+publishedBy:
+  endDate: '2026-11-06T02:44:49.570383+00:00'
+  id: urn:uuid:807f7e39-1533-47b1-9677-d432ccc63448
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2026-11-06T02:44:49.570383+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:a5ff9e5f-9876-440f-abb0-18541c0b5e3c
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - identifier: https://doi.org/10.1038/nn.2134
   name: Behavior-dependent short-term assembly dynamics in the medial prefrontal cortex
@@ -202,9 +216,60 @@ relatedResource:
   resourceType: dcite:JournalArticle
   schemaKey: Resource
   url: https://www.nature.com/articles/nn.2134
+releaseNotes: "## Changes since version 0.250624.0419\n\nAll 28 files were re-converted
+  from the lab's source files with a new NeuroConv conversion ([catalystneuro/buzsaki-lab-to-nwb](https://github.com/catalystneuro/buzsaki-lab-to-nwb),
+  PRs [#90](https://github.com/catalystneuro/buzsaki-lab-to-nwb/pull/90) and [#98](https://github.com/catalystneuro/buzsaki-lab-to-nwb/pull/98)),
+  and three sessions were added. The conversion fixes problems found by a reproduction
+  attempt ([issue #80](https://github.com/catalystneuro/buzsaki-lab-to-nwb/issues/80)).\n
+  \n**New sessions**\n\n- **EE.152, EE.165 and EE.188**, working memory sessions of
+  rat EE that were missing; EE.188 is the paper's example session. They have wide-band
+  data from the lab's `.dat` files, units and position (trials for EE.152 and EE.165),
+  but no LFP, which the source does not have.\n\n**Corrections**\n\n- **Gain.** Signals
+  were scaled at 1 µV per step; they are now at 0.3815 µV per step (Amplipex: 10 V
+  / 2^16 / 400). Voltages in the earlier files were about 2.6 times too large.\n-
+  **Units** are read from the `.clu`/`.res` files (clusters 2 and up, shanks 1 to
+  12). The earlier table also held the artifact and noise clusters 0 and 1 and the
+  clusters of the non-neural inputs, and a reading error left some units' spike times
+  out of order (unit 1 of EE.049, EE.088, EE.196, FF.103, FF.130, GG.069). EE.088
+  now has 304 units, not 350.\n- **Trials** run from the end of the last nose poke
+  (the paper's trial start) to reward (its end), with `nose_poke_start_time` and `side`.
+  The earlier `stop_time` was the nose-poke end and `left_or_right` had the description
+  of `reward_time`. Only correct trials are listed, as the description says.\n- **Position.**
+  The earlier `SpatialSeries1`/`2` were the x coordinates of the two LEDs, in pixels
+  though stated in metres; the second is zero in every file. Position is now `led_1`
+  (x and y, pixels, with the camera's reference frame, NaN where not tracked) and
+  `linearized_position` (1 at trial start, 2 at reward, 0 outside trials; earlier
+  stated in metres).\n- **Dates.** Rat EE's sessions are dated 2006, from its raw
+  files, not 2008. FF and GG are also set to 2006; their year is not documented, as
+  the session descriptions say.\n- **Session descriptions** describe each session
+  (task, rat, day) instead of repeating the paper's abstract, and say the time of
+  day was not recorded.\n- **Subject, institution, experimenter.** Age P3M/P5M (ISO
+  8601), sex \"M\", species *Rattus norvegicus*; institution Rutgers, The State University
+  of New Jersey, where the recordings were made (not NYU); experimenter \"Fujisawa,
+  Shigeyoshi\".\n\n**Additions**\n\n- **Units columns:** `shank`, `cluster_id`, `region`
+  (mPFC for shanks 1 to 8, CA1 for 9 to 12), electrode group, and `cell_type` and
+  `lab_cell_number` from the lab's cell lists where they exist (EE.188, EE.210). Resolution
+  1/20,000 s.\n- **Uncurated units.** The eight sessions without hand-sorted units
+  (EE.042 to EE.048, EE.050), which had no units before, have their day's automatic
+  KlustaKwik clusters, cut to the session, in `processing/ecephys/uncurated_units`.
+  No person checked these clusters.\n- **Electrodes** follow the lab's `.xml`: shanks
+  1 to 8 of a Buzsaki64 probe in medial prefrontal cortex, 9 to 12 of a Buzsaki32
+  in CA1, and an `auxiliary` group whose `signal` column names each non-neural input
+  (nose-poke sensors, wheel encoders, sync). In rat GG the sensors are on channels
+  65 (left) and 66 (right), as its trials show, not where the CRCNS description puts
+  them. A `channel_id` column was added; the empty `x`, `y`, `z`, `imp` and `filtering`
+  columns were removed.\n- **Ontology terms** (HERD): the experimenter's ORCID, the
+  institution's ROR, and terms for species, sex, regions and cell types.\n- **HED
+  annotations** for the trial side, unit region and cell type values.\n- Experiment
+  description, keywords, and DOIs of the paper and the CRCNS pfc-2 dataset; datasets
+  chunked for streaming.\n\n**Known gaps**\n\n- EE.188 and EE.210 have no trials:
+  the lab's `SessionNP` is not in their source files.\n- GG.063 no longer has trials.
+  The earlier file had 28, but GG.063 is a spontaneous alternation session in the
+  CRCNS table and its behavior file is not on the lab's share, so they can't be checked;
+  a question for the lab."
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.7.0
-url: https://dandiarchive.org/dandiset/000067/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000067/0.261106.0244
+version: 0.261106.0244
 wasGeneratedBy: []
