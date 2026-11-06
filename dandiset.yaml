@@ -202,6 +202,12 @@ relatedResource:
   resourceType: dcite:JournalArticle
   schemaKey: Resource
   url: https://www.nature.com/articles/nn.2134
+- name: Conversion code (catalystneuro/buzsaki-lab-to-nwb)
+  relation: dcite:IsSupplementedBy
+  repository: GitHub
+  resourceType: dcite:Software
+  schemaKey: Resource
+  url: https://github.com/catalystneuro/buzsaki-lab-to-nwb
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.7.0
